@@ -5,7 +5,7 @@
   alwaysUnlocked: true
   addStartingItems: true
   startWaveTimeMultiplier: 4
-  useAI: true
+  useAI: false
   showSectorLandInfo: true
   planet: Golder
   name: GoldMines
