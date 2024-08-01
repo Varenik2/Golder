@@ -23,7 +23,7 @@ allowLaunchToNumbered: false
 
 cloudMesh: {
   type: HexSkyMesh
-  planet: TestPlanet
+  planet: Golder
   seed: 2
   speed: 3
   radius: 0.05
