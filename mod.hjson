@@ -1,1 +1,8 @@
-
+minGameVersion: 146
+name: "golder"
+subtitle: "new planet"
+displayName: "golder"
+description: "Mod with new golden planet!"
+author: "varenikGMD"
+version: "0.01"
+hidden: true
