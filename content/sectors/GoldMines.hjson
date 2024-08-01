@@ -1,0 +1,16 @@
+  localizedName: Gold Mines
+  description: test map
+  captureWave: 10
+  difficulty: 1
+  alwaysUnlocked: true
+  addStartingItems: true
+  startWaveTimeMultiplier: 4
+  useAI: true
+  showSectorLandInfo: true
+  planet: Golder
+  name: GoldMines
+  sector: 1
+
+  research: {
+    parent: "Core"
+  }
