@@ -12,7 +12,7 @@ drawOrbit: true
 
 accessible: true
 alwaysUnlocked: true
-defaultCore: "Core"
+defaultCore: "CoreShard"
 sectorSeed: 0
 startSector: 1 
 sectorSize: 1
