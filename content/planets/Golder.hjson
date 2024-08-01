@@ -1,1 +1,55 @@
+generator: SerpuloPlanetGenerator
+localizedName: "Golder"
+parent: sun
+iconColor: ffd700
+orbitRadius: 1000
+hasAtmosphere: true
+updateLighting: false
+atmosphereRadIn: 0.02
+atmosphereRadOut: 0.3
+atmosphereColor: ff9700
+drawOrbit: true
 
+accessible: true
+alwaysUnlocked: true
+defaultCore: "Core"
+sectorSeed: 0
+startSector: 1 
+sectorSize: 1
+
+clearSectorOnLose: true
+allowSectorInvasion: false
+allowLaunchToNumbered: false
+
+cloudMesh: {
+  type: HexSkyMesh
+  planet: TestPlanet
+  seed: 2
+  speed: 3
+  radius: 0.05
+  divisions: 5
+  color: eb7107
+  octaves: 2
+  persistence: 1
+  scl: 2
+  thresh: 0.45
+}
+
+mesh: {
+    type: NoiseMesh
+    planet: Golder
+    seed: 562697
+    color1: d4AF37
+    color2: ffd700
+    divisions: 5
+    radius: 0.9
+    octaves: 7
+    persistence: 1
+    scl: 0.75
+    mag: 1.2
+}
+
+hiddenItems: [
+    "copper"
+    "lead"
+]
