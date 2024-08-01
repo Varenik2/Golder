@@ -1,0 +1,25 @@
+type: CoreBlock
+localizedName: Gilded
+category: effect
+health: 1000
+size: 2
+
+itemCapacity: 2000
+unitCapModifier: 3
+unitType: "beta"
+incinerateNonBuildable: true
+isFirstTier: true
+squareSprite: false
+
+requirements: [
+
+]
+
+
+research: {
+    root: true
+    name: Golder
+	planet: Golder
+}
+
+alwaysUnlocked: true
