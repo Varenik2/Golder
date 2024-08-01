@@ -8,7 +8,7 @@
   useAI: true
   showSectorLandInfo: true
   planet: Golder
-  name: GoldMine
+  name: GoldMines
   sector: 1
 
   research: {
