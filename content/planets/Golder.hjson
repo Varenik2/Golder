@@ -50,6 +50,6 @@ mesh: {
 }
 
 hiddenItems: [
-    "copper"
+    "copper",
     "lead"
 ]
