@@ -15,7 +15,7 @@ alwaysUnlocked: true
 defaultCore: "core-shard"
 sectorSeed: 0
 startSector: 1 
-sectorSize: 1
+sectorSize: 0,5
 
 clearSectorOnLose: true
 allowSectorInvasion: false
